@@ -59,7 +59,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Fast and Slow Pointers
 
-- [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
+- [] [Happy Number](https://leetcode.com/problems/happy-number/)
 
 - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
@@ -433,7 +433,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Challenge Yourself
 
-- [ ] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+- [DONE] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
 - [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
